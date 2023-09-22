@@ -1,5 +1,5 @@
-# TURD-RealChute
-A RealChute config pack for Textures Unlimited.
+# TURD-TACLS
+A TAC Life Support config pack for Textures Unlimited.
 
 ## Download
 https://github.com/UltraJohn/TURD-TACLS/releases
